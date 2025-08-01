@@ -121,20 +121,19 @@ p{
     text-align: center;
     justify-content: center;
 }
-.blue div div a{
+.blue div div .link{
     color: white;
 
     
 
 }
 
-.blue div div a:hover{
+.blue div div .link:hover{
     color: gray;
 }
 
 a:link,
 a:visited,
-a:hover,
 a:active {
   color:white; /* Example: Blue color */
   text-decoration: none; /* Optional: Removes the default underline */
