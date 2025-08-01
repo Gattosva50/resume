@@ -6,7 +6,8 @@
     margin: 0;
     padding: 10%;
     color: white;
-    
+    padding-bottom: 5%;
+    padding-top: 5%;
     
 }
 
@@ -115,5 +116,22 @@ p{
     z-index: 100;
     box-shadow: 0 5px 25px rgba(0, 0, 0, .2);
 }
+
+.blue div div{
+    text-align: center;
+    justify-content: center;
+}
+.blue div div a{
+    color: white;
+    
+
+}
+
+.blue div div a:hover{
+    color: gray;
+}
+
+
+
 
 
