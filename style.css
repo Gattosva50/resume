@@ -121,14 +121,12 @@ p{
     text-align: center;
     justify-content: center;
 }
-.blue div div .link{
+
+
+a{
     color: white;
-
-    
-
 }
-
-.blue div div .link:hover{
+a:hover{
     color: gray;
 }
 
