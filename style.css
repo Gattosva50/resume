@@ -131,7 +131,10 @@ p{
     color: gray;
 }
 
-
-
-
-
+a:link,
+a:visited,
+a:hover,
+a:active {
+  color: #0000FF; /* Example: Blue color */
+  text-decoration: none; /* Optional: Removes the default underline */
+}
