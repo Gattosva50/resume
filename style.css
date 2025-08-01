@@ -123,6 +123,7 @@ p{
 }
 .blue div div a{
     color: white;
+
     
 
 }
@@ -135,6 +136,6 @@ a:link,
 a:visited,
 a:hover,
 a:active {
-  color: #0000FF; /* Example: Blue color */
+  color:white; /* Example: Blue color */
   text-decoration: none; /* Optional: Removes the default underline */
 }
