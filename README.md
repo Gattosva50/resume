@@ -1,12 +1,39 @@
-# React + Vite
+# 💼 Online Resume (Personal Website)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal online CV and portfolio, built with **React** and styled with **Tailwind CSS**.  
+It showcases my professional background, skills, work experience, and projects, with links to live demos and GitHub repositories.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Website
 
-## Expanding the ESLint configuration
+🔗 [Visit my Online Resume](https://gattosva50.github.io/resume/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- 📄 **Professional Summary:** Mechatronics Engineer & Full-Stack Developer profile.
+- 🎓 **Education & Certifications:** Bachelor in Mechatronics Engineering and industry diplomas.
+- 🛠 **Skills:** Web development, data analysis, industrial automation, CAD.
+- 💼 **Experience:** Industry work, research projects (NASA HERC, CubeSat).
+- 💻 **Projects Portfolio:** Links to my Weather App, E-commerce project, and more.
+- 📥 **Downloadable CV:** PDF version available directly from the website.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React (Create React App or Vite)
+- **Styling:** Tailwind CSS
+- **Deployment:** GitHub Pages
+
+---
+
+## 📦 Installation (Run Locally)
+
+```bash
+git clone https://github.com/Gattosva50/resume.git
+cd resume
+npm install
+npm start
